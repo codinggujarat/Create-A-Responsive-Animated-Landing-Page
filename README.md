@@ -2,6 +2,10 @@
 
 Unlock the power of web development with our comprehensive tutorial on creating a dynamic landing page using **HTML**, **CSS**, and **JavaScript**!
 
+## 🚀 Live Preview
+
+&nbsp;&nbsp;&nbsp;[Live Preview](https://codinggujarat.github.io/Create-A-Responsive-Animated-Landing-Page/)
+
 ## 🚀 Project Overview
 
 This project demonstrates how to build a modern, responsive, and animated landing page from scratch. It uses clean HTML structure, CSS for styling and animations, and JavaScript for interactivity such as mobile navigation toggles.
